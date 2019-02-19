@@ -11,11 +11,9 @@
 
 <div>
   <p align="center"><img src="Images/Robot_Base_v14_Topside.png"></p>
-  <H1 align="center">Here is a link to an Autodesk Fusion 360</H1>
-  <H1 align="center"><a href="https://a360.co/2DKW5AY/" target="_blank">3d LIVE View</a></H1>
+  <H2 align="center">Here is a link to an Autodesk Fusion 360 Live design of my robot model</H2>
+  <H1 align="center"><a href="https://a360.co/2DKW5AY" target="_blank">3d LIVE View</a></H1>
 </div>
-
-
 
 This project was initially planned as a write-up of what I finished up making with the CamJam Edukit 3. For those who are not familiar with the kit, essentially it is a bunch of preselected components that allow you to create a two-wheeler robot using a Raspberry Pi, as the brains of the operation. The main selling point of the kit are the step by step instructions that are available for download and produced with associates from Cambridge University, and if these guys don’t know what they’re doing, then there’s not much hope for us, is there!
    The official CamJam instructions are in this repository, and are in folders - 
