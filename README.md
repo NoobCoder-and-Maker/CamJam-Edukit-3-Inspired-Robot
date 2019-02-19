@@ -12,7 +12,7 @@
 <div>
   <p align="center"><img src="Images/Robot_Base_v14_Topside.png"></p>
   <H1 align="center">Here is a link to an Autodesk Fusion 360</H1>
-  <H1 align="center"><a href="https://a360.co/2DKW5AY" target="_blank">"3d LIVE View"</a></H1>
+  <H1 align="center"><a href="https://a360.co/2DKW5AY/" target="_blank">3d LIVE View</a></H1>
 </div>
 
 
