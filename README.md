@@ -1,5 +1,7 @@
-![My Logo](/Images/NoobCoder_Logo_Icon.png)
 # CamJam-Edukit-3-Inspired-Robot
+
+[My Logo](/Images/NoobCoder_Logo_Icon.png)
+
 ## Raspberry Pi Controlled Robot, inspired by the 'Camjam Edukit 3'
 ### Here is a link to an Autodesk Fusion 360  
 ### ["3d LIVE View"](https://a360.co/2DKW5AY)
