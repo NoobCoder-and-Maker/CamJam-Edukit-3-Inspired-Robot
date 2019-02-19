@@ -18,10 +18,12 @@
 This project was initially planned as a write-up of what I finished up making with the CamJam Edukit 3. For those who are not familiar with the kit, essentially it is a bunch of preselected components that allow you to create a two-wheeler robot using a Raspberry Pi, as the brains of the operation. The main selling point of the kit are the step by step instructions that are available for download and produced with associates from Cambridge University, and if these guys don’t know what they’re doing, then there’s not much hope for us, is there!
    The official CamJam instructions are in this repository, and are in folders - 
 <div>
-   <p>
-     <a href="CamJam Edukit 3 - GPIO Zero" target="_blank">CamJam Edukit 3 - GPIO Zero</a>   &  
-     <a href="CamJam Edukit 3 - RPi.GPIO" target="_blank">CamJam Edukit 3 - RPi.GPIO</a>
-   </p>
+     <H3><a href="CamJam Edukit 3 - GPIO Zero" target="_blank">CamJam Edukit 3 - GPIO Zero</a>   &  
+       <a href="CamJam Edukit 3 - RPi.GPIO" target="_blank">CamJam Edukit 3 - RPi.GPIO</a>
+     </H3>
 </div>
 
    For my robot I have decided to add additional components that are not provided with the Edukit. I will also be designing a custom 3d printed chassis to attach the components too. The design was created using Autodesk Fusion 360 design software which allows you to join components together, make adjustments to them, and create new components on the fly in its original place.
+<div>
+  <H2 align="center"><a href=https://noobcoderandmaker.wordpress.com/projects/camjam-edukit-3-inspired-robot/" target="_blank">Here's a blog about the project on my Wordpress website</a></H2>
+</div>
