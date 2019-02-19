@@ -3,20 +3,27 @@
   <img src="Images/NoobCoder_Logo_Icon.png">
   </p>
 </div>
-<H1 align="center">CamJam-Edukit-3-Inspired-Robot</H1>
-<H2 align="center">Raspberry Pi Controlled Robot, inspired by the 'Camjam Edukit 3'</H2>
+
 <div>
-  <p align="center">
-  <img src="Images/Robot_Base_v14_Topside.png">
-  </p>
+  <H1 align="center">CamJam-Edukit-3-Inspired-Robot</H1>
+  <H2 align="center">Raspberry Pi Controlled Robot, inspired by the 'Camjam Edukit 3'</H2>
 </div>
+
 <div>
+  <p align="center"><img src="Images/Robot_Base_v14_Topside.png"></p>
   <H1 align="center">Here is a link to an Autodesk Fusion 360</H1>
-  <H1 align="center"><a href="https://a360.co/2DKW5AY">"3d LIVE View"</a></H1>
+  <H1 align="center"><a href="https://a360.co/2DKW5AY" target="_blank">"3d LIVE View"</a></H1>
 </div>
 
 
 
-This project was initially going planned as a write-up of what I finished up making with the CamJam Edukit 3. For those who are not familiar with the kit, it essentially is a bunch of components to allow you to create a two-wheeler robot using a Raspberry Pi, as the brains of the operation.
+This project was initially planned as a write-up of what I finished up making with the CamJam Edukit 3. For those who are not familiar with the kit, essentially it is a bunch of preselected components that allow you to create a two-wheeler robot using a Raspberry Pi, as the brains of the operation. The main selling point of the kit are the step by step instructions that are available for download and produced with associates from Cambridge University, and if these guys don’t know what they’re doing, then there’s not much hope for us, is there!
+   The official CamJam instructions are in this repository, and are in folders - 
+<div>
+   <p>
+     <a href="CamJam Edukit 3 - GPIO Zero" target="_blank">CamJam Edukit 3 - GPIO Zero</a>   &  
+     <a href="CamJam Edukit 3 - RPi.GPIO" target="_blank">CamJam Edukit 3 - RPi.GPIO</a>
+   </p>
+</div>
 
-The main selling point of the kit are the step by step instructions that are available for download and produced with associates from Cambridge University, and if these guys don’t know what they’re doing, then there’s not much hope for us, is there! As a precursor to the ‘EduKit 3’, there are edukits 1 and 2 which provides you with some sensors ie. PIR, Temperature and ultrasound sensors, and all the wires, resistors and buttons that you need to connect with the Raspberry Pi.
+   For my robot I have decided to add additional components that are not provided with the Edukit. I will also be designing a custom 3d printed chassis to attach the components too. The design was created using Autodesk Fusion 360 design software which allows you to join components together, make adjustments to them, and create new components on the fly in its original place.
