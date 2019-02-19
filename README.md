@@ -18,8 +18,8 @@
 This project was initially planned as a write-up of what I finished up making with the CamJam Edukit 3. For those who are not familiar with the kit, essentially it is a bunch of preselected components that allow you to create a two-wheeler robot using a Raspberry Pi, as the brains of the operation. The main selling point of the kit are the step by step instructions that are available for download and produced with associates from Cambridge University, and if these guys don’t know what they’re doing, then there’s not much hope for us, is there!
    The official CamJam instructions are in this repository, and are in folders - 
 <div>
-     <H3><a href="https://github.com/NoobCoder-and-Maker/CamJam-Edukit-3-Inspired-Robot/tree/master/CamJam%20Edukit%203%20-%20GPIO%20Zero" target="_blank">CamJam Edukit 3 - GPIO Zero</a>   &  
-       <a href="https://github.com/NoobCoder-and-Maker/CamJam-Edukit-3-Inspired-Robot/tree/master/CamJam%20Edukit%203%20-%20RPi.GPIO" target="_blank">CamJam Edukit 3 - RPi.GPIO</a>
+     <H3><a href="https://github.com/NoobCoder-and-Maker/CamJam-Edukit-3-Inspired-Robot/tree/master/CamJam%20Edukit%203%20-%20GPIO%20Zero">CamJam Edukit 3 - GPIO Zero</a>   &  
+       <a href="https://github.com/NoobCoder-and-Maker/CamJam-Edukit-3-Inspired-Robot/tree/master/CamJam%20Edukit%203%20-%20RPi.GPIO">CamJam Edukit 3 - RPi.GPIO</a>
      </H3>
 </div>
 
