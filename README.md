@@ -27,5 +27,5 @@ This project was initially planned as a write-up of what I finished up making wi
 
 
 <div>
-  <H2 align="center"><a href=https://noobcoderandmaker.wordpress.com/projects/camjam-edukit-3-inspired-robot" target="_blank">Heres a blog about the project on my Wordpress website</a></H2>
+  <H2 align="center"><a href=https://noobcoder-and-maker.gq" target="_blank">Here's a blog about the project on my Wordpress website</a></H2>
 </div>
