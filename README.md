@@ -11,7 +11,9 @@
 
 <div>
   <img src="Images/Robot_Base_v14_Topside.png">
-  <H2 align="center">Here is a link to an Autodesk Fusion 360 Live design of my robot model</H2>
+  <H2 align="center">Here is a link to an Autodesk Fusion 360 Live design of my robot model.</H2>
+  <H3 align="center">The link only works on either a desktop/laptop browser, or if viewed on</H3>
+  <H3 align="center">a phone/tablet using the 'desktop site' setting in the 'hamburger menu'.</H3>
   <H1 align="center"><a href="https://a360.co/2DKW5AY" target="_blank">3d LIVE View</a></H1>
 </div>
 
