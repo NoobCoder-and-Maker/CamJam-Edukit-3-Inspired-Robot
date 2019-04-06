@@ -29,7 +29,7 @@ This project was initially planned as a write-up of what I finished up making wi
 
 
 <div>
-  <H2 align="center"><a href="https://noobcoderandmaker.wordpress.com" target="_blank">Here's my Wordpress Blog.</a></H2>
+  <H2 align="center"><a href="https://noobcoderandmaker.wordpress.com" target="_blank">Here's my NoobCoder & Maker Website.</a></H2>
 </div>
 
 <div>
